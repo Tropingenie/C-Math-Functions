@@ -1,0 +1,3 @@
+C:/Users/steee/Documents/C/Math-Functions/Summation-Calculator/cmake-build-debug/CMakeFiles/Summation_Calculator.dir
+C:/Users/steee/Documents/C/Math-Functions/Summation-Calculator/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/steee/Documents/C/Math-Functions/Summation-Calculator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
